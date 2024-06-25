@@ -1,0 +1,3 @@
+Flask>=2.0.2
+pysolr>=3.9.0
+google-cloud-pubsub>=2.9.0
